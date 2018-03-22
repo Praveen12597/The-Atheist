@@ -1,0 +1,61 @@
+#row1 {
+	margin: 0 110 0 110 ;
+	border: 2px solid red ;
+	background-color: #dde076;
+}
+
+body {
+	background-color: #e6e888;
+	/*background: url(pic.jpg);
+	background-size: cover;
+	background-image: fixed;*/
+}
+
+#jumbo1 {
+	text-align: center;
+	border: 2px solid red;
+	padding: 0 0 0 0;
+	background-color: #eff282;
+	margin-top: 65px;
+}
+
+#jumbo2 {
+	text-align: center;
+	background-image: url(pic1.jpg);
+	color: #ff5b0f;
+	background-size: cover;
+	font-size: xx-large;
+}
+.panel {
+	background-color: #8e9121;
+	margin-top: 50px;
+}
+
+#join {
+	font-size: xx-large;
+	text-align: right;
+}
+#social {
+	font-size: 50px;
+	text-align: right;
+}
+
+#fb {
+	color: #6600ff;
+}
+
+#go {
+	color: #ff3f00;
+}
+
+#tw {
+	color: #5400ff;
+}
+
+#more {
+padding-left: 100px;
+}
+
+#more1 {
+	font-size: larger;
+}

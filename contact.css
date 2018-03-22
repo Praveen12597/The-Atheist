@@ -1,0 +1,30 @@
+.row {
+	padding: 200px 00px 00px 00px;
+}
+
+#form {
+	padding: 20px 20px 20px 20px;
+	border: 2px solid white;
+	background-color: transparent;  /*#ff9f18;*/
+}
+
+/*body {
+	background-color: #ffae19;
+}*/
+
+body {
+	background-image: url(pic2.jpg);
+	background-size: cover;
+}
+
+html {
+	height: 100%;
+}
+
+.form-control {
+	resize: none;
+}
+
+.navbar-inverse {
+	background-color: transparent;
+}

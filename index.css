@@ -1,0 +1,86 @@
+#row1 {
+	margin: 0 110 0 110 ;
+	border: 2px solid black ;
+	/*background-color: #dde076;*/
+	background-color: transparent;
+	color: maroon;
+}
+
+.navbar-inverse {  
+	/*background-color: transparent;*/
+}
+
+body {
+	background-image: url(pic2.jpg);
+	background-size: cover;
+}
+
+/*body {
+	background-color:#e6e888;   /*  #ffae19;  
+	/*background: url(pic.jpg);
+	background-size: cover;
+	background-image: fixed;*/
+}*/
+
+html {
+	height: 100%;
+}
+
+#jumbo1 {
+	text-align: center;
+	border: 2px solid black;
+	padding: 0 0 0 0;
+	background-color: transparent;
+	/*background-color: #eff282;*/
+	margin-top: 65px;
+	color: black;
+}
+
+#No-God {
+	color: black;
+}
+
+#jumbo2 {
+	text-align: center;
+	/*background-image: url(pic1.jpg);*/
+	color: #ff5b0f;
+	background-color: transparent;
+	background-size: cover;
+	font-size: xx-large;
+}
+.panel {
+	/*background-color: #8e9121;*/
+	background-color: transparent;
+	margin-top: 50px;
+}
+
+#join {
+	font-size: xx-large;
+	text-align: right;
+	color: #ff5b0f;
+}
+#social {
+	font-size: 50px;
+	text-align: right;
+}
+
+#fb {
+	color: #6600ff;
+}
+
+#go {
+	color: #ff3f00;
+}
+
+#tw {
+	color: #5400ff;
+}
+
+#more {
+padding-left: 100px;
+color: #ff5b0f;
+}
+
+#more1 {
+	font-size: larger;
+}
